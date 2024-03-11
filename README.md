@@ -1,5 +1,5 @@
 # Hi there 👋
-- 🔭 I’m currently working on KODA CAMP, as a position of Software Engineer.
+- 🔭 I’m currently working at KODA CAMP as a Software Engineer (Backend Developer).
 - 🌱 I’m currently learning Ruby on Rails, and Python.
 
 # 📊 GitHub Stats:
