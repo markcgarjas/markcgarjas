@@ -1,6 +1,6 @@
 # Hi there, I'm Mark 👋
-- 🔭 I’m currently working at KODA CAMP as a Software Engineer (Backend Developer).
-- 🌱 I’m currently learning Ruby on Rails, React, NextJS and Python.
+- 🔭 I worked as a Software Engineer (Backend Developer) at KODA CAMP.
+- 🌱 I’m learning Ruby on Rails, React, NextJS and Python.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=markcgarjas&theme=dark&hide_border=false)<br/>
